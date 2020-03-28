@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lozc",
+  "name": "Legned Of Zelda Craft",
+  "description": "A Legend Of Zelda mod by Crusading Toon Link .",
+  "version": "${1.0}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/XFZ3F59",
+  "updateUrl": "",
+  "authorList": ["Crusading Toon Link"],
+  "credits": "CJ_01_ The manager of this project!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

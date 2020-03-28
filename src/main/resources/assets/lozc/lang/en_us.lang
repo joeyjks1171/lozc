@@ -1,0 +1,31 @@
+//Swords
+item.master_sword.name=Master Sword
+item.kokiri_sword.name=Kokiri Sword
+item.razor_sword.name=Razor Sword
+item.gilded_sword.name=Gilded Sword
+item.fairy_sword.name=Fairy Sword
+item.biggoron_sword.name=Biggoron's Sword
+
+
+//items
+item.green_rupee.name=Green Rupee
+item.blue_rupee.name=Blue Rupee
+item.red_rupee.name=Red Rupee
+item.purple_rupee.name=Purple Rupee
+item.huge_rupee.name=Huge Rupee
+item.orange_rupee.name=Orange Rupee
+
+
+//armor
+item.hero_helmet.name=Hero Helmet
+item.hero_chestplate.name=Hero Chestplate
+item.hero_leggings.name=Hero Leggings
+item.hero_boots.name=Hero Boots
+
+
+//Tabs
+itemGroup.LegendofzeldacraftTab=Legend of Zelda Craft
+
+
+//entity
+entity.redead.name=Redead
